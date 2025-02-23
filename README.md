@@ -1,2 +1,3 @@
 # project-SpringBoot
-Speing boot project
+Speing boot project 
+hibernate,jpa,Maven
