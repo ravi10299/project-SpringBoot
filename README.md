@@ -1,3 +1,4 @@
 # project-SpringBoot
 Speing boot project 
-hibernate,jpa,Maven
+hibernate,jpa,Maven,lombok
+
